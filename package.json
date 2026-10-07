@@ -30,7 +30,7 @@
     "date-fns-tz": "^3.2.0",
     "encoding": "^0.1.13",
     "eslint": "^9.39.5",
-    "eslint-config-next": "^16.3.0",
+    "eslint-config-next": "^16.3.7",
     "eslint-config-prettier": "^10.1.1",
     "highlight.js": "^11.7.0",
     "microcms-js-sdk": "^3.5.1",
